@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_nx549j.mk
+    $(LOCAL_DIR)/xtended_nx549j.mk

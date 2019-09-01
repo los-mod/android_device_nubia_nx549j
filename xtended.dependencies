@@ -1,0 +1,23 @@
+[
+  {
+    "remote": "github",
+    "repository": "los-mod/android_device_nubia_msm8953-common",
+    "target_path": "device/nubia/msm8953-common"
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "HighwayStar/android_vendor_nubia",
+    "target_path": "vendor/nubia"
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "HighwayStar/android_kernel_nubia_msm8953",
+    "target_path": "kernel/nubia/msm8953"
+    "branch": "lineage-16.0"
+  }
+]
+
+
+
